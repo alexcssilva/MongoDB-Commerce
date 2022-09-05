@@ -10,6 +10,7 @@ O MongoDB Commerce pôe em prática os conceitos do NoSQL, história e suas clas
 #### Habilidades que foram exigidas:
 
 -   MongoDB
+-   JavaScript
 
 #### Tecnologias utilizadas:
 
